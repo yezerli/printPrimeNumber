@@ -22,7 +22,6 @@ int main()
 		if (checkPrimeNumber(i))//如果是素数
 			cout << i <<endl;
 
-	
 	return 0;
 }
 
